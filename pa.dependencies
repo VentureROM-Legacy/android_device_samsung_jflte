@@ -78,9 +78,9 @@
         "revision":     "cm-11.0"
     },
     {
-        "remote":      "legacy-blobs",
-        "repository":  "proprietary_vendor_samsung",
+        "remote":      "github",
+        "repository":  "TheMuppets/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
-        "revision":    "kitkat"
+        "revision":    "cm-11.0"
     }
 ]
