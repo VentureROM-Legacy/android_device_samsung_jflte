@@ -6,6 +6,10 @@
         "revision":     "cm-11.0"
     },
     {
+        "repository": "android_device_samsung_jf-common",
+        "target_path": "device/samsung/jf-common"
+    },
+    {
         "remote":       "cm",    
         "repository":   "CyanogenMod/android_device_qcom_common",
         "target_path":  "device/qcom/common",
@@ -25,9 +29,9 @@
     },
     {
         "remote":       "cm",
-        "repository":   "CyanogenMod/android_device_samsung_qcom-common",
+        "repository":   "AOSPA-legacy/android_device_samsung_qcom-common",
         "target_path":  "device/samsung/qcom-common",
-        "revision":     "cm-11.0"
+        "revision":     "kitkat"
     },
     {
         "remote":       "cm",
